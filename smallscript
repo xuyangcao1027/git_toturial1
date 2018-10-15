@@ -8,3 +8,6 @@ var=$1
 echo '$var' is $var
 echo $$ is the PID
 echo 'hello' is $hello
+
+goodbye="Goodbye World"
+echo '$goodbye' is $goodbye
